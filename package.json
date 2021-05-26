@@ -1,0 +1,22 @@
+{
+    "name": "black-material",
+    "displayName": "Black Material",
+    "description": "",
+    "publisher": "yanyanishevskyi",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black Material",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black Material-color-theme.json"
+            }
+        ]
+    }
+}
