@@ -1,22 +1,38 @@
 {
-    "name": "black-material",
-    "displayName": "Black Material",
-    "description": "",
-    "publisher": "yanyanishevskyi",
-    "version": "0.1.0",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Black Material",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Black Material-color-theme.json"
-            }
-        ]
-    }
+  "name": "black-material",
+  "displayName": "Black Material Theme",
+  "description": "True black, high contrast theme",
+  "publisher": "yanyanishevskyi",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yan-yanishevsky/black-material-vscode-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Black Theme",
+    "High Contrast Theme",
+    "Material"
+  ],
+  "galleryBanner": {
+    "color": "#000",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black Material-color-theme.json"
+      }
+    ]
+  }
 }
