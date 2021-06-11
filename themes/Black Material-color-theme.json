@@ -39,7 +39,7 @@
 
 		"editorSuggestWidget.highlightForeground": "#1DE9B6",
 		"editorWidget.background": "#090A0C",
-		"editorWidget.border": "#1DE9B6",
+		"editorWidget.border": "#1C1F25",
 		"editorWidget.resizeBorder": "#1DE9B6",
 
 		"dropdown.background": "#121317",
@@ -48,9 +48,9 @@
 		"breadcrumb.foreground": "#656B74",
 		"breadcrumbPicker.background": "#121317",
 
-		"list.activeSelectionBackground": "#090A0C",
+		"list.activeSelectionBackground": "#1DE9B615",
 		"list.hoverBackground": "#090A0C",
-		"list.focusOutline": "#121317",
+		"list.focusOutline": "#1DE9B625",
 		"list.inactiveSelectionBackground": "#090A0C",
 		"list.activeSelectionForeground": "#CFD8DC",
 		"list.highlightForeground": "#1DE9B6",
