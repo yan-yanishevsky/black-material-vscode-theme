@@ -307,12 +307,6 @@
 			}
 		},
 		{
-			"scope": "source.css entity.name.tag",
-			"settings": {
-				"foreground": "#D8CC62"
-			}
-		},
-		{
 			"scope": "support.type.property-name.css",
 			"settings": {
 				"foreground": "#B0BEC5"
