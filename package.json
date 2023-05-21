@@ -1,7 +1,7 @@
 {
   "name": "black-material",
   "displayName": "Black Material Theme",
-  "description": "True black, high contrast theme",
+  "description": "True black material theme",
   "publisher": "yanyanishevskyi",
   "version": "0.5.0",
   "engines": {
@@ -18,7 +18,6 @@
     "Theme",
     "Dark Theme",
     "Black Theme",
-    "High Contrast Theme",
     "Material"
   ],
   "galleryBanner": {

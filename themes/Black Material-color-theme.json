@@ -313,6 +313,12 @@
 			}
 		},
 		{
+			"scope": "support.type.property-name.scss",
+			"settings": {
+				"foreground": "#B0BEC5"
+			}
+		},
+		{
 			"scope": "meta.tag, punctuation.definition.tag",
 			"settings": {
 				"foreground": "#80CBC4"
