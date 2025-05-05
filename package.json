@@ -1,9 +1,9 @@
 {
   "name": "black-material",
-  "displayName": "Material Nightfall Theme",
-  "description": "Near-true black Material theme",
+  "displayName": "Black Material",
+  "description": "Black Material theme",
   "publisher": "yanyanishevskyi",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "engines": {
     "vscode": "^1.55.0"
   },
@@ -18,8 +18,7 @@
     "Theme",
     "Dark Theme",
     "Black Theme",
-    "Material",
-    "Nightfall"
+    "Material"
   ],
   "galleryBanner": {
     "color": "#121317",
@@ -29,7 +28,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Material Nightfall",
+        "label": "Black Material",
         "uiTheme": "vs-dark",
         "path": "./themes/color-theme.json"
       }
