@@ -3,7 +3,7 @@
   "displayName": "Black Material Theme",
   "description": "A blacked-out Material Theme for VSCode",
   "publisher": "yanyanishevskyi",
-  "version": "0.8.6",
+  "version": "0.8.7",
   "engines": {
     "vscode": "^1.55.0"
   },
