@@ -1,9 +1,9 @@
 {
-  "name": "black-material",
-  "displayName": "Black Material Theme",
-  "description": "True black material theme",
+  "name": "material-nightfall",
+  "displayName": "Material Nightfall Theme",
+  "description": "Near-true black Material theme",
   "publisher": "yanyanishevskyi",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "engines": {
     "vscode": "^1.55.0"
   },
@@ -12,13 +12,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yan-yanishevsky/black-material-vscode-theme"
+    "url": "https://github.com/yan-yanishevsky/material-nightfall-vscode-theme"
   },
   "keywords": [
     "Theme",
     "Dark Theme",
     "Black Theme",
-    "Material"
+    "Material",
+    "Nightfall"
   ],
   "galleryBanner": {
     "color": "#121317",
@@ -28,9 +29,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Black Material",
+        "label": "Material Nightfall",
         "uiTheme": "vs-dark",
-        "path": "./themes/Black Material-color-theme.json"
+        "path": "./themes/color-theme.json"
       }
     ]
   }
