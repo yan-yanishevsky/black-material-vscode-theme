@@ -1,4 +1,4 @@
-Darker Material Theme for Visual Studio Code.
+Near-true black Material theme for Visual Studio Code.
 Font family used: JetBrains Mono
 
 <p align="center">
