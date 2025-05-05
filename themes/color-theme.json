@@ -121,6 +121,7 @@
     "progressBar.background": "#a59dff",
 
     "statusBar.background": "#000",
+    "statusBar.border": "#161617",
     "statusBarItem.remoteBackground": "#a59dff",
     "statusBarItem.remoteForeground": "#05221b",
     "statusBar.foreground": "#646265",
