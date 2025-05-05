@@ -1,9 +1,9 @@
 {
   "name": "black-material",
-  "displayName": "Black Material",
-  "description": "Black Material theme",
+  "displayName": "Black Material Theme",
+  "description": "A blacked-out Material Theme for VSCode",
   "publisher": "yanyanishevskyi",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "engines": {
     "vscode": "^1.55.0"
   },
