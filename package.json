@@ -3,7 +3,7 @@
   "displayName": "Material Nightfall Theme",
   "description": "Near-true black Material theme",
   "publisher": "yanyanishevskyi",
-  "version": "0.6.1",
+  "version": "0.8.0",
   "engines": {
     "vscode": "^1.55.0"
   },
